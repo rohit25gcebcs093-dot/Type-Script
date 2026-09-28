@@ -36,8 +36,8 @@ var boolData = true;
 // var data:string=boolData.toString();
 var data = " " + boolData;
 console.log(data);
-var item = true;
-var other;
-other = item;
-console.log(item);
+// var item:boolean=true;
+// var other:boolean;
+// other=item;
+// console.log(item);
 //# sourceMappingURL=Day02.js.map

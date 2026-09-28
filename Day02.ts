@@ -46,8 +46,8 @@ var data:string=" "+boolData;
 
 console.log(data);
 
-var item:boolean=true;
-var other:boolean;
-other=item;
-console.log(item);
+// var item:boolean=true;
+// var other:boolean;
+// other=item;
+// console.log(item);
 
